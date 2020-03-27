@@ -16,5 +16,7 @@ Learning-Outcomes:
 - margin, padding, border
 - text-decoration and background-colors
 - color-gradients
+- avoid overlapping of elements
+- identify background color of existing page
 
 This project was an excercise From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css) to apply a part of the learnt skills.
